@@ -1,0 +1,24 @@
+{
+  "name": "peolanha.brackets-eslint",
+  "title": "Brackets ESLint",
+  "description": "Integration of ESLint into Brackets",
+  "keywords": [
+    "lint",
+    "eslint"
+  ],
+  "version": "0.0.1",
+  "license": "MIT",
+  "homepage": "",
+  "author": {
+    "name": "Andrée Hansson",
+    "email": "peolanha@gmail.com",
+    "url": ""
+  },
+  "engines": {
+    "brackets": ">=0.43.0"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^0.8.2"
+  }
+}
