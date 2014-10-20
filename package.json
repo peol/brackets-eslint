@@ -2,17 +2,27 @@
   "name": "peolanha.brackets-eslint",
   "title": "Brackets ESLint",
   "description": "Integration of ESLint into Brackets",
+  "license": "MIT",
   "keywords": [
     "lint",
     "eslint"
   ],
   "version": "0.0.2",
   "license": "MIT",
-  "homepage": "",
+  "homepage": "https://github.com/peol/brackets-eslint",
   "author": {
     "name": "Andrée Hansson",
     "email": "peolanha@gmail.com",
-    "url": ""
+    "url": "http://andreehansson.se"
+  },
+  "contributors": [
+  ],
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/peol/brackets-eslint.git"
+  },
+  "bugs": {
+    "url" : "https://github.com/peol/brackets-eslint/issues"
   },
   "engines": {
     "brackets": ">=0.43.0"
