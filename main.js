@@ -13,7 +13,6 @@ define(function (require, exports, module) {
 		// add sensible defaults?
 	};
 
-
 	function getOptions() {
 		var projectRoot = ProjectManager.getProjectRoot();
 		var opts = projectRoot && prefs.get("options:" + projectRoot.name) || null;
