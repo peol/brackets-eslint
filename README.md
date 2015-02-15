@@ -18,3 +18,12 @@ To add project-specific preferences:
     "rulePaths": ["path-relative-to-project-root/foo/", "path-relative-to-project-root/bar/"]
 }
 ```
+To disable any other linters for JavaScript and only use ESLint, add:
+```
+"language": {
+    "javascript": {
+        "linting.prefer": ["ESLint"],
+        "linting.usePreferredOnly": true
+    }
+}
+```
