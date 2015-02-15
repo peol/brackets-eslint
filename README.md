@@ -27,3 +27,9 @@ To disable any other linters for JavaScript and only use ESLint, add:
     }
 }
 ```
+
+# Missing features
+This is a list of things that would make this extension better. Pull requests are welcome (create an issue before you start on something, and remove it from this list in your PR).
+
+* Inherit the .eslintrc structure depending on where the file reside (like the CLI tool does)
+* A better way of configuring specific projects (might need support from the core Brackets API's)
