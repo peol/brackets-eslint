@@ -1,3 +1,5 @@
+# Use https://github.com/zaggino/brackets-eslint instead, there's no need to have competing extensions doing the exact same thing (and that repository is better maintained than this).
+
 # brackets-eslint
 Use ESLint as your JavaScript linter in Adobe Brackets.
 
